@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @saugat76
 - 👀 I’m interested in research oriented projects, a little bit of coding, traveling, photography
-- 🌱 I’m currently studying MS in Electrical and Computer Engineering
-- 💞️ I’m looking to collaborate on Deep Reinforcement Learning and UAV based communication system
+- 🌱 I’m currently involved as BLE Wireless Engineer
+- 💞️ I’m looking to collaborate on UAV based communication network projects using DRL
+- 👀 I'm also interested on any other reinforcement learning or deep learning projects
 - 📫 Want to know more: Reach me tripats@miamioh.edu
 
 <!---
